@@ -22,6 +22,7 @@
     "dotenv": "^8.1.0",
     "express": "^4.16.3",
     "express-formidable": "^1.0.0",
+    "http-proxy-middleware": "^0.20.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.22.2",
     "mongoose": "^5.7.1",
